@@ -27,3 +27,13 @@ b {
 	text-align: center;
 	font-size: 16px;
 }
+
+a {
+	color: #b66f43;
+	background: #fcdccf;
+	font: normal 12px georgia;
+	text-decoration: none;
+}
+a:hover {
+	color: #881a3f;
+}
