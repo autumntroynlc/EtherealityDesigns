@@ -1,18 +1,18 @@
 h1 {
-  font-size: 24px;
-  color: #5f517a;
+  font-size: 20px;
+  color: #705e80;
   background:#f2f6ff;
   font-family: georgia;
-  font-style: italic;
+   font-style: italic;
   text-align: center;
 }
 
 body {
   background: black;
-  color: #DCDCDC;
+  color: #676767;
   font-family: georgia;
   letter-spacing: 2 px;
-  font-size: 20px;
+  font-size: 12px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
