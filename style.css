@@ -1,1 +1,21 @@
+h1 {
+  font-size: 80px;
+  color: #86C232;
+  background:#2f3235;
+  font-family: arial;
+  text-align: center;
+}
+
+body {
+  background: black;
+  color: #DCDCDC;
+  font-family: georgia;
+  letter-spacing: 2 px;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.65em;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 10px;  
+}
 
