@@ -20,3 +20,9 @@ body {
   padding: 40px 10px;  
 }
 
+b {
+	color: #49001c;
+	font-weight: italic;
+	background: #e1d8f8;
+	text-align: center;
+}
