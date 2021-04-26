@@ -37,6 +37,7 @@ a {
 	font: normal 16px georgia;
 	text-decoration: none;
 }
+
 a:hover {
 	color: #881a3f;
 }
@@ -53,5 +54,12 @@ header.links nav ul li a {
     flex:none;
   }
 
+@media screen and (max-width: 480px) {
+  header.Content main {
+    display:block;
+  }
+  header.Content main {
+    flex:none;
+  }
   }
 }
