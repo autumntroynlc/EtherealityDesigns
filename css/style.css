@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 
-@media screen and (min-width:480px) {}
+@media screen and (min-width:480px) {
 body {
   background: black;
   color: #676767;
