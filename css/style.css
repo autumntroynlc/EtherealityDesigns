@@ -42,3 +42,14 @@ a:hover {
 header.links nav ul li a {
   background: rgba(0,0,0, 0.1);
 }
+
+@media screen and (max-width: 480px) {
+  header.Links nav {
+    display:block;
+  }
+  header.Links nav {
+    flex:none;
+  }
+  
+  }
+}
