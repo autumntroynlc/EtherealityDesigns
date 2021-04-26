@@ -1,1 +1,40 @@
 
+h1 {
+  font-size: 20px;
+  color: #705e80;
+  background:#f2f6ff;
+  font-family: georgia;
+   font-style: italic;
+  text-align: center;
+}
+
+body {
+  background: black;
+  color: #676767;
+  font-family: georgia;
+  letter-spacing: 2 px;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 1.65em;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 40px 10px;  
+}
+
+b {
+	color: #49001c;
+	font-style: italic;
+	background: #e1d8f8;
+	text-align: center;
+	font-size: 16px;
+}
+
+a {
+	color: #b66f43;
+	background: #fcdccf;
+	font: normal 16px georgia;
+	text-decoration: none;
+}
+a:hover {
+	color: #881a3f;
+}
