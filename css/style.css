@@ -3,8 +3,9 @@ h1 {
   font-size: 24px;
   color: #36aabc;
   background: #f1f1f1;
-  font-family: georgia;
-   font-style: italic;
+  font-family: arial;
+   font-style: bold;
+  text-transform: uppercase;
   text-align: center;
 }
 
