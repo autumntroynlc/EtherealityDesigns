@@ -34,7 +34,9 @@ b {
 
 a {
 	color: #00002d;
-	font: normal 20px georgia;
+	font: normal 20px arial;
+    font-style: bold;
+  text-transform: uppercase;
 	text-decoration: none;
 }
 
