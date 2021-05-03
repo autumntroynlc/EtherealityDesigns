@@ -1,7 +1,7 @@
 
 h1 {
   font-size: 24px;
-  color: #68abc1;
+  color: #335886;
   background: #f1f1f1;
   font-family: georgia;
    font-style: italic;
@@ -31,13 +31,12 @@ b {
 }
 
 a {
-	color: #544667;
+	color: #00002d;
 	font: normal 20px georgia;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #881a3f;
   background: #e1d8f8;
 }
 
