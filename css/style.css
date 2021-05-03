@@ -1,8 +1,8 @@
 
 h1 {
   font-size: 24px;
-  color: #2684a1;
-  background:#f7f7ef;
+  color: #68abc1;
+  background: #f1f1f1;
   font-family: georgia;
    font-style: italic;
   text-align: center;
@@ -10,7 +10,7 @@ h1 {
 
 body {
   background: black;
-  color: #252223;
+  color: black;
   font-family: arial;
   letter-spacing: 2 px;
   font-size: 12px;
@@ -22,10 +22,10 @@ body {
 }
 
 b {
-	color: #138085;
+	color: #693a72;
   font-family:georgia;
 	font-style: italic;
-	background: #d7e2e3;
+	background: #f1f1f1;
 	text-align: center;
 	font-size: 18px;
 }
