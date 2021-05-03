@@ -37,7 +37,8 @@ a {
 }
 
 a:hover {
-  background: #e1d8f8;
+  color: #00002d;
+  background: #e9d2cf;
 }
 
 header.links nav ul li a {
