@@ -22,15 +22,16 @@ body {
 }
 
 b {
-	color: #49001c;
+	color: #138085;
+  font-family:georgia;
 	font-style: italic;
-	background: #e1d8f8;
+	background: #d7e2e3;
 	text-align: center;
 	font-size: 18px;
 }
 
 a {
-	color: #705e80;
+	color: #544667;
 	font: normal 20px georgia;
 	text-decoration: none;
 }
