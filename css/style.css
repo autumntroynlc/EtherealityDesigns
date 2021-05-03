@@ -37,6 +37,7 @@ a {
 
 a:hover {
 	color: #881a3f;
+  background: #e1d8f8;
 }
 
 header.links nav ul li a {
